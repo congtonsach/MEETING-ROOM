@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Room Booking System",
+  "description": "A web application for managing company meeting room bookings, designed to be user-friendly and fit within the M365 ecosystem aesthetic.",
+  "requestFramePermissions": []
+}
